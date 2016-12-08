@@ -1,4 +1,4 @@
-# Box Model Practice
+bo# Box Model Practice
 ---
 _The purpose of this repository is to help you practice using margin, padding, and display._
 
